@@ -5,7 +5,12 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 
-
+<<<<<<< HEAD
+=======
+h1 {
+    background-color: black;
+    font-size: 5px;
+}
 
 .body {
     display: flex;
@@ -139,6 +144,7 @@ nav ul li ul li a:hover {
     height: 300px;
 }
 
+>>>>>>> 48e377c27358d1baa40e24145ffd44cf29241fa3
 
 /*Main index*/
 h2 {
@@ -241,6 +247,12 @@ h2 {
 .grid-container {
     display: grid;
     background-color: rgb(242, 231, 247);
+<<<<<<< HEAD
+    grid-template-columns: 450px 450px 450px 450px;
+=======
+    grid-template-columns: 450px 450px 450px;
+>>>>>>> 48e377c27358d1baa40e24145ffd44cf29241fa3
+
 }
 
 .side-bar {
